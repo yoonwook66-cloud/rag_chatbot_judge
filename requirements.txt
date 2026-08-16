@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain-anthropic
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
+pandas
+python-docx
+openpyxl
+odfpy
+pyhwp
